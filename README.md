@@ -24,6 +24,7 @@ I'm **Emmanuel Adjei Danso**, a **Computer Science & Math Senior** at NYIT and a
 
 ## 📊 Stats
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadjeidanso&show_icons=true&theme=dark&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadjeidanso&layout=compact&theme=dark)
 
