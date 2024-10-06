@@ -51,7 +51,7 @@ Here are a few highlights of my work. Visit my [Portfolio](https://adjeidansoemm
 Feel free to reach out:
 - **Email**: [adjeidansoemmanuel@gmail.com](mailto:adjeidansoemmanuel@gmail.com)
 - **Phone**: (908)-590-0285
-- **LinkedIn**: [Emmanuel Adjei Danso](https://www.linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn**: [Emmanuel Adjei Danso](https://www.linkedin.com/in/emmanuel-adjei-danso-91442b1ba/)
 
 ---
 
